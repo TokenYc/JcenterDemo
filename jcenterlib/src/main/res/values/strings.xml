@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JcenterLib</string>
+    <string name="this_is_jcenterlibactivity">This is JcenterLibActivity</string>
+</resources>
